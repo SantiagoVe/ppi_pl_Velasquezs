@@ -1,4 +1,4 @@
-# Proyecto  de cero a Freelancer.
+# De cero a Freelancer.
 Proyecto Libre de la asignatura Programación Para Ingeniería del semestre 2024-1
 
 ## Descripción
@@ -9,7 +9,7 @@ El objetivo principal de este proyecto es compartir de manera transparente y det
 
 ## Tech stack
 
-Lo ideal es utilizar mis conocimientos previos en lenguajes como Python, Java, Javascript, CSS o HTML para incursionar en proyectos en páginas como upwork, también aprovechar lo aprendido en el curso para mejorar mis hábilidades y perfil.
+Lo ideal es utilizar mis conocimientos previos en lenguajes como Python, Java, Javascript, CSS o HTML para incursionar en proyectos en páginas como upwork, también aprovechar lo aprendido en el curso "Programación para igeniería de la Universidad Nacional de Colombia sede Medellín para mejorar mis hábilidades y perfil.
 
 ## Contenido
 ### El repositorio incluirá los siguientes elementos:
@@ -23,6 +23,32 @@ Lo ideal es utilizar mis conocimientos previos en lenguajes como Python, Java, J
 ## Contribuciones
 Se anima a otros desarrolladores, freelancers y profesionales de IT a contribuir al repositorio compartiendo sus propias experiencias, consejos o recursos útiles. Las contribuciones son bienvenidas y pueden enriquecer la utilidad del proyecto para la comunidad.
 
+## Perfil 
+
+Hola, mi nombre es Santiago Velásquez Jaramillo, tengo 23 años y estudio *Ingeniería de Sistemas e informática* en la *Universidad Nacional de Colombia sede Medellín*, tengo experiencia en el mundo del testing, alta adaptación a entornos y metodologías de trabajo.
+
+## Hábilidades técnicas:
+
+### Lenguajes de programación:
+
+Java, Python, C++.
+
+### Desarrollo Web:
+
+HTML, CSS, JavaScript.
+
+### Bases de datos:
+
+SQL, MongoDB.
+
+### Herramientas de desarrollo:
+
+Git, Visual Stuido, Eclipse, NetBeans.
+
+### Idiomas:
+
+1. Español(Nativo).
+2. Inglés(C1).
 
 ## Contacto
 Para cualquier pregunta, comentario o sugerencia, no dudes en contactarme a través de [svelasquezj@unal.edu.co].
