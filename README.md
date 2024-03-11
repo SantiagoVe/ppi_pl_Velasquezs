@@ -1,4 +1,4 @@
-# Proyecto Freelanecer de cero a Freelancer.
+# Proyecto  de cero a Freelancer.
 Proyecto Libre de la asignatura Programación Para Ingeniería del semestre 2024-1
 
 ## Descripción
